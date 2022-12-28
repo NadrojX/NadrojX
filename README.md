@@ -7,6 +7,8 @@ Jordan, 22 ans. Actuellement étudiant en L3 informatique.
 
 #### :package: Personal Project:
 
+- [Site Cv](https://github.com/NadrojX/SiteCv)
+
 #### :pencil: School Project:
 
 - [Website Project (Make in L2)](https://github.com/NadrojX/Website-Project)
