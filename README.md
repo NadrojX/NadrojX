@@ -2,7 +2,7 @@
 
 #### A propos de moi :
 
-Jordan, 22 ans. Actuellement étudiant en L3 informatique. 
+Jordan, 23 ans. Actuellement étudiant en L3 informatique. 
 
 
 #### :package: Personal Project:
