@@ -1,6 +1,6 @@
 <div align = center>
   
-  # <ins> 👋 Hi, I’m Jordan </ins>
+  # <ins> 👋 Bonjour, je suis Jordan </ins>
  
 </div>
 
