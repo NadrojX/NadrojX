@@ -31,11 +31,11 @@
 
 </div>
 
-#### :package: <ins> Personal Project : </ins> 
+#### :package: <ins> Projet Personel : </ins> 
 
 <div align = center>
   
-#### :pencil: <ins> School Project : </ins> 
+#### :pencil: <ins> Projet Scolaire : </ins> 
 
 - [Website Project (Make in L2)](https://github.com/NadrojX/Website-Project)
 - [Food App Project (Make in L2)](https://github.com/NadrojX/Food-App-Project)
