@@ -31,11 +31,11 @@
 
 </div>
 
-#### :package: <ins> Projet Personel : </ins> 
+#### :package: <ins> Projets Personel : </ins> 
 
 <div align = center>
   
-#### :pencil: <ins> Projet Scolaire : </ins> 
+#### :pencil: <ins> Projets Scolaire : </ins> 
 
 - [Projet Automate Cellulaire (Fait en L3)](https://github.com/NadrojX/Cellular-Automaton-Project)
 - [Projet Application Cuisine (Fait en L2)](https://github.com/NadrojX/Food-App-Project)
