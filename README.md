@@ -37,9 +37,9 @@
   
 #### :pencil: <ins> Projet Scolaire : </ins> 
 
-- [Cellular Automaton Project (Fait en L3)](https://github.com/NadrojX/Cellular-Automaton-Project)
-- [Food App Project (Fait en L2)](https://github.com/NadrojX/Food-App-Project)
-- [Website Project (Fait en L2)](https://github.com/NadrojX/Website-Project)
+- [Projet Automate Cellulaire (Fait en L3)](https://github.com/NadrojX/Cellular-Automaton-Project)
+- [Projet Application Cuisine (Fait en L2)](https://github.com/NadrojX/Food-App-Project)
+- [Projet Site Internet (Fait en L2)](https://github.com/NadrojX/Website-Project)
   
 </div>
 
