@@ -31,7 +31,15 @@
 
 </div>
 
+<div align = center>
+  
 #### :package: <ins> Projets Personel : </ins> 
+
+- [Projet Site Pokédex](https://github.com/NadrojX/Pokedex)
+  
+</div>
+
+
 
 <div align = center>
   
