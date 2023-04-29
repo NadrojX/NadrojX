@@ -6,7 +6,7 @@
 
 <div align = center>
   
-  <img src="https://www.vernee.cc/wp-content/uploads/2022/07/image-GIF.gif" width="260" height="140" />
+  <img src="https://media.tenor.com/vO8zCvdDVegAAAAC/oshi-no-ko-trailer.gif" width="498" height="280" />
 
 </div>
 
