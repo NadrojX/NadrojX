@@ -1,35 +1,23 @@
 <div align = center>
   
-  # <ins> 👋 Bonjour, je suis Jordan </ins>
- 
-</div>
-
-<div align = center>
-  
-  <img src="https://media.tenor.com/vO8zCvdDVegAAAAC/oshi-no-ko-trailer.gif" width="498" height="280" />
-
 </div>
 
 <div align = center>
 
   #### <ins> A propos de moi : </ins> 
 
-  Jordan, 23 ans. Actuellement étudiant en L3 informatique. 
+  Jordan, 24 ans. Diplômé d'une licence en Informatique. 
   
 </div>
 
 <div align = center>
   
-  ### <ins> Langages Et Technologies: </ins> 
+  ### <ins> Langages: </ins> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="55" height="25" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" width="55" height="25" />
   <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" width="65" height="25" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="65" height="25" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=whit" width="65" height="25" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" width="65" height="25" />
-     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="65" height="25" />
-   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="65" height="25" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="55" height="25" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="65" height="25" />
 
 </div>
 
